@@ -1,0 +1,6 @@
+stable_starter:
+  version: 1.0
+  css:
+    theme:
+        assets/css/critical.css: { weight: 10 }
+        assets/css/non-critical.css: { weight: 11 }

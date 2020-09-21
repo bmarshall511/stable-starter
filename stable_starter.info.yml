@@ -1,0 +1,9 @@
+name: Stable Starter
+type: theme
+description: 'A simple, light-weight, performance-driven Drupal theme allowing developers to rapidly build fully-featured sites.'
+base theme: stable
+core: 8.x
+libraries:
+  - stable_starter/stable_starter
+dependencies:
+  - critical_css

@@ -1,0 +1,13 @@
+# Logs and databases #
+######################
+error_log
+php_errorlog
+*.log
+*.sql
+
+# Development #
+######################
+.DS_Store*
+
+# Remove after gulp-starter has been installed.
+assets
