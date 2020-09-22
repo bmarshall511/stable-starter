@@ -29,7 +29,7 @@
 		}
 	],
 	"scripts": {
-		"post-install-cmd": [
+		"post-package-install": [
 			"@install-gulp-starter"
 		],
 		"install-gulp-starter": [
