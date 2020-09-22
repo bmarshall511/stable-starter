@@ -1,6 +1,7 @@
 {
 	"name": "bmarshall511/stable_starter",
 	"description": "Get a jump start building Drupal 8 and 9 themes using Stable Starter, a sub-theme of Stable.",
+	"type": "drupal-theme",
 	"homepage": "https://github.com/bmarshall511/stable-starter",
 	"authors": [
 		{
