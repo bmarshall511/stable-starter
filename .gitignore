@@ -11,3 +11,4 @@ php_errorlog
 
 # Remove after gulp-starter has been installed.
 assets
+vendor
