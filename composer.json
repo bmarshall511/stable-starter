@@ -42,8 +42,7 @@
 	},
 	"scripts": {
 		"post-create-project-cmd": [
-			"pwd",
-			"cd themes/contrib/stable-starter/assets",
+			"cd assets",
 			"npm install"
 		]
 	}
