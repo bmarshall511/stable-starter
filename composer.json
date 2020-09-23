@@ -31,12 +31,6 @@
 	],
 	"require": {
 		"composer/installers": "~1.0",
-		"bmarshall511/gulp_starter": "dev-master",
-		"mnsami/composer-custom-directory-installer": "1.1.*"
-	},
-	"extra": {
-		"installer-paths": {
-			"/testing/": ["bmarshall511/gulp_starter"]
-		}
+		"bmarshall511/gulp_starter": "dev-master"
 	}
 }
