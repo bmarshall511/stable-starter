@@ -11,7 +11,7 @@ In the Drupal project root, run:
 composer create-project bmarshall511/stable_starter themes/custom/stable-starter dev-master
 ```
 
-### Install Manually
+### Manual Install
 
 1. Download the theme.
 2. Upload the *stable-starter* folder to the desired themes folder in your Drupal installation.
