@@ -42,8 +42,7 @@
 	},
 	"scripts": {
 		"post-create-project-cmd": [
-			"cd assets",
-			"npm install"
+			"cd assets; npm install"
 		]
 	}
 }
