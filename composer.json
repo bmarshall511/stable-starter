@@ -42,7 +42,7 @@
 	},
 	"scripts": {
 		"post-create-project-cmd": [
-			"cd assets",
+			"cd themes/contrib/stable-starter",
 			"npm install"
 		]
 	}
