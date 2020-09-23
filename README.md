@@ -1,4 +1,4 @@
-# stable-starter
+# stable-starter [![Build Status](https://travis-ci.com/bmarshall511/stable-starter.svg?branch=master)](https://travis-ci.com/bmarshall511/stable-starter)
 
 > Get a jump start building Drupal 8 and 9 themes using Stable Starter, a sub-theme of [Stable](https://www.drupal.org/docs/8/core/themes/stable-theme).
 
