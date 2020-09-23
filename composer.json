@@ -27,18 +27,6 @@
 					"reference": "master"
 				}
 			}
-		},
-		{
-			"type": "package",
-			"package": {
-				"name": "bmarshall511/gulp-starter",
-				"version": "master",
-				"source": {
-					"url": "git://github.com/bmarshall511/gulp-starter.git",
-					"type": "git",
-					"reference": "master"
-				}
-			}
 		}
 	],
 	"require": {
