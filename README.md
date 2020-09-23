@@ -4,6 +4,12 @@
 
 ## Installation
 
+### Install via Composer (recommended)
+
+In Drupal project root, run `omposer create-project bmarshall511/stable_starter themes/custom/stable-starter dev-master`
+
+### Install Manually
+
 1. Download the theme.
 2. Upload the *stable-starter* folder to the desired themes folder in your Drupal installation.
 3. Download [gulp-starter](https://github.com/bmarshall511/gulp-starter).
