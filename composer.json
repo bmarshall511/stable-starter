@@ -36,7 +36,7 @@
 	},
 	"extra": {
 		"installer-paths": {
-			"themes/{$name}/": ["bmarshall511/gulp_starter"]
+			"/testing/": ["bmarshall511/gulp_starter"]
 		}
 	}
 }
