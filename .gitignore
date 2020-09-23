@@ -8,7 +8,4 @@ php_errorlog
 # Development #
 ######################
 .DS_Store*
-
-# Remove after gulp-starter has been installed.
-assets
 vendor
