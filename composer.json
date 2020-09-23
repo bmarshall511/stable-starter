@@ -31,9 +31,11 @@
 	],
 	"require": {
 		"composer/installers": "~1.0",
-		"bmarshall511/gulp_starter": "^1"
+		"bmarshall511/gulp_starter": "^1",
+		"oomphinc/composer-installers-extender": "^1"
 	},
 	"extra": {
+		"installer-types": ["library"],
 		"installer-paths": {
 			"{$name}/": ["bmarshall511/gulp_starter"]
 		}
