@@ -42,7 +42,8 @@
 	},
 	"scripts": {
 		"post-package-install": [
-				"npm install"
+			"cd assets",
+			"npm install"
 		]
 	}
 }
