@@ -39,5 +39,10 @@
 		"installer-paths": {
 			"assets/": ["bmarshall511/gulp_starter"]
 		}
+	},
+	"scripts": {
+		"post-package-install": [
+				"npm install"
+		]
 	}
 }
