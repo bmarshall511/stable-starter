@@ -31,8 +31,8 @@
 	],
 	"require": {
 		"composer/installers": "~1.0",
-		"bmarshall511/gulp_starter": "^1",
-		"oomphinc/composer-installers-extender": "^1"
+		"bmarshall511/gulp_starter": "dev-master",
+		"oomphinc/composer-installers-extender": "dev-master"
 	},
 	"extra": {
 		"installer-types": ["library"],
