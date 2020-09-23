@@ -35,6 +35,7 @@
 		"oomphinc/composer-installers-extender": "dev-master"
 	},
 	"extra": {
+		"installer-types": ["library"],
 		"installer-paths": {
 			"themes/{$name}/": ["bmarshall511/gulp_starter"]
 		}
