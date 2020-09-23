@@ -43,11 +43,11 @@
 	],
 	"require": {
 		"composer/installers": "~1.0",
-		"bmarshall511/gulp_starter": "~1.0"
+		"bmarshall511/gulp_starter": "dev-master"
 	},
 	"extra": {
 		"installer-paths": {
-				"themes/contrib/stable_starter/": ["bmarshall511/gulp_starter"]
+				"themes/contrib/stable_starter/{$name}/": ["bmarshall511/gulp_starter"]
 		}
 	}
 }
