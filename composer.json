@@ -32,5 +32,10 @@
 	"require": {
 		"composer/installers": "~1.0",
 		"bmarshall511/gulp_starter": "dev-master"
+	},
+	"extra": {
+		"installer-paths": {
+			"/testing/": ["bmarshall511/gulp_starter"]
+		}
 	}
 }
