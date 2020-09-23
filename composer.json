@@ -37,7 +37,7 @@
 	"extra": {
 		"installer-types": ["bmarshall511-starter"],
 		"installer-paths": {
-			"/assets/": ["type:bmarshall511-starter"]
+			"{$name}/": ["type:bmarshall511-starter"]
 		}
 	}
 }
