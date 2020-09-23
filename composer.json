@@ -37,7 +37,7 @@
 	"extra": {
 		"installer-types": ["bmarshall511-starter"],
 		"installer-paths": {
-			"{$name}/": ["type:bmarshall511-starter"]
+			"themes/{$name}/": ["bmarshall511/gulp_starter"]
 		}
 	}
 }
