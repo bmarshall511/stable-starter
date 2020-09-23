@@ -4,3 +4,4 @@ install:
 script:
   - cd themes/custom/stable-starter/assets
   - npm install
+  - npm run build
