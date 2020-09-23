@@ -6,7 +6,7 @@
 
 ### Install via Composer (recommended)
 
-In Drupal project root, run:
+In the Drupal project root, run:
 ```
 composer create-project bmarshall511/stable_starter themes/custom/stable-starter dev-master
 ```
