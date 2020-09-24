@@ -42,7 +42,8 @@
 	},
 	"scripts": {
 		"post-create-project-cmd": [
-			"cd assets; npm install; rm -rf .git;"
+			"cd assets; npm install; rm -rf .git;",
+			"find . -mindepth 2 -type d -name .git | xargs rm -rf"
 		]
 	}
 }
