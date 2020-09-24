@@ -38,4 +38,3 @@ For information on developing and compiling resources within the *assets* folder
 - [ ] Update the *logo.svg*.
 - [ ] Update the *screenshot.png*.
 - [ ] Compile *assets* for production by running `npm run build`.
-- [ ] If using a git repo, remove `assets` from the *.gitignore* file.
