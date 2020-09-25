@@ -28,10 +28,6 @@ For information on developing and compiling resources within the *assets* folder
 
 * `stable_starter/stable_starter` - Includes the global, base [non-critical](https://web.dev/defer-non-critical-css/) CSS styles.
 
-### Required Modules
-
-* [Critical CSS](https://www.drupal.org/project/critical_css) - Embeds a critical CSS file into a page's HTML head, and loads the rest of non-critical CSS asynchronously.
-
 ## Deployment Checklist
 
 - [ ] Update the *favicon.ico*.

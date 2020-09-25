@@ -14,3 +14,20 @@ function stable_starter_form_system_theme_settings_alter(&$form, $form_state, $f
     '#markup' => 'View the theme\'s generated <a href="/themes/custom/stable-starter/assets/sassdoc" target="_blank" rel="noopener noreferrer">Sass documentation</a>.',
   );
 }
+
+/**
+ * Implements hook_page_attachments_alter().
+ */
+function stable_starter_page_attachments_alter(array &$page) {
+  /*$theme_path = drupal_get_path('theme', 'stable_starter');
+  $page['#attached']['html_head'][] = [
+    [
+      '#tag' => 'style',
+      '#value' => file_get_contents("$theme_path/assets/css/critical.css"),
+      '#weight' => 99999999
+    ],
+    'global-critical-css',
+  ];
+
+  dpm($page);*/
+}
